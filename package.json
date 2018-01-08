@@ -1,0 +1,29 @@
+{
+  "name": "voting",
+  "version": "1.0.0",
+  "description": "A test decentralized voting system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukebrains/voting-dapp.git"
+  },
+  "keywords": [
+    "dapp",
+    "blockchain",
+    "ethereum"
+  ],
+  "author": "Luke Brady",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukebrains/voting-dapp/issues"
+  },
+  "homepage": "https://github.com/lukebrains/voting-dapp#readme",
+  "dependencies": {
+    "ethereumjs-testrpc": "^6.0.3",
+    "solc": "^0.4.19",
+    "web3": "^1.0.0-beta.27"
+  }
+}
